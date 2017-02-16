@@ -1,5 +1,36 @@
+.container {
+	width:1225px;
+	background-color:  #262626;
+	margin: auto;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 52px;
+	}
+   
 
-    .crystal-image {
-      width: 300px;
-      height: 300px;
+
+
+ .crystal-image {
+    width: 300px;
+    height: 300px;
     }
+
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    color: white;
+}
+
+
+h3 {
+    font-weight: bold;
+    color: white;
+}
